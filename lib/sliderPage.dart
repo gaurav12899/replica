@@ -123,7 +123,7 @@ class _SliderPageState extends State<SliderPage> {
             SizedBox(
               height: 10,
             ),
-            Text("Aailable Tests",
+            Text("Available Tests",
                 style: TextStyle(
                     color: Colors.blueAccent,
                     fontWeight: FontWeight.bold,
